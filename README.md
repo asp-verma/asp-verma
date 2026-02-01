@@ -18,6 +18,7 @@ Full Stack Developer • React Native Specialist • Cloud & Backend Engineer �
 
 - 🚀 Full Stack Developer (Web & Mobile)
 - 📱 **React Native (CLI & Expo)** Specialist
+- 🤖 Mobile Dev with **Flutter**
 - ⚙️ Backend: **Node.js, Express, MongoDB**
 - 🐍 Backend with **Python & Django**
 - ☁️ Cloud & DevOps Enthusiast
@@ -32,7 +33,7 @@ Full Stack Developer • React Native Specialist • Cloud & Backend Engineer �
 
 ### 📱 Frontend & Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,flutter,html,css,js,tailwind" />
 </p>
 
 ---
@@ -91,7 +92,7 @@ Full Stack Developer • React Native Specialist • Cloud & Backend Engineer �
 
 ### 🧰 Tools & Development Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio,atom,linux" />
 </p>
 
 ---
