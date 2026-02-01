@@ -33,14 +33,14 @@ Full Stack Developer • React Native Specialist • Cloud & Backend Engineer �
 
 ### 📱 Frontend & Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,flutter,html,css,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,html,css,js,tailwind" />
 </p>
 
 ---
 
 ### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,php,laravel,python,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,php,laravel,python,django,java" />
 </p>
 
 ---
@@ -68,7 +68,7 @@ Full Stack Developer • React Native Specialist • Cloud & Backend Engineer �
 
 ### 🤖 AI, ML, Data Science & Analytics
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy" />
 </p>
 
 - 🤖 Artificial Intelligence (AI)  
@@ -92,7 +92,7 @@ Full Stack Developer • React Native Specialist • Cloud & Backend Engineer �
 
 ### 🎨 UI/UX, Photo & Video Editing Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,canva,ps,pr" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,pr" />
 </p>
 
 - 🎨 UI/UX Design (Figma)  
