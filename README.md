@@ -9,7 +9,7 @@ Full Stack Developer • React Native Specialist • Cloud & Backend Engineer �
 </p>
 
 <p align="center">
-  <i>Building scalable apps • Teaching future developers • Exploring AI & Security</i>
+  <i>Building scalable apps • Teaching future developers • Exploring AI, Cloud & Security</i>
 </p>
 
 ---
@@ -19,6 +19,7 @@ Full Stack Developer • React Native Specialist • Cloud & Backend Engineer �
 - 🚀 Full Stack Developer (Web & Mobile)
 - 📱 **React Native (CLI & Expo)** Specialist
 - ⚙️ Backend: **Node.js, Express, MongoDB**
+- 🐍 Backend with **Python & Django**
 - ☁️ Cloud & DevOps Enthusiast
 - 🧠 AI / ML / Data Science Learner
 - 🏫 Founder & Mentor at **TechVidya**
@@ -31,16 +32,17 @@ Full Stack Developer • React Native Specialist • Cloud & Backend Engineer �
 
 ### 📱 Frontend & Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" />
-<img src="https://skillicons.dev/icons?i=react,reactnative,expo&perline=7" />
-
- 
+  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,html,css,js,tailwind" />
 </p>
+
+---
 
 ### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,php,laravel,python,django" />
 </p>
+
+---
 
 ### 🌐 CMS & Platforms
 <p>
@@ -49,45 +51,45 @@ Full Stack Developer • React Native Specialist • Cloud & Backend Engineer �
 
 ---
 
-## ☁️ Cloud, DevOps & Infrastructure
+### ☁️ Cloud, DevOps & Infrastructure
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure" />
 </p>
 
 ---
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,python,c,cpp,php" />
 </p>
 
 ---
 
-## 🤖 AI, ML, Data Science & Analytics
+### 🤖 AI, ML, Data Science & Analytics
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-- 🤖 Artificial Intelligence (AI)
-- 📊 Machine Learning (ML)
-- 📈 Data Science (DS)
-- 📉 Data Analytics (DA)
+- 🤖 Artificial Intelligence (AI)  
+- 📊 Machine Learning (ML)  
+- 📈 Data Science (DS)  
+- 📉 Data Analytics (DA)  
 
 ---
 
-## 🛡️ Cyber Security & Ethical Hacking
+### 🐧 Linux, Security & Ethical Hacking
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,kali" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,debian" />
 </p>
 
 - 🛡️ Ethical Hacking Fundamentals  
 - 🔍 Network & Web Security  
 - ⚠️ Penetration Testing (Beginner–Intermediate)  
-
+- 🧪 Familiar with **Parrot OS** (Security & Forensics)
 
 ---
 
-## 🧰 Tools & Development Environment
+### 🧰 Tools & Development Environment
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
 </p>
@@ -106,6 +108,7 @@ Full Stack Developer • React Native Specialist • Cloud & Backend Engineer �
 ---
 
 ## 📫 Connect With Me
+
 <p>
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://skillicons.dev/icons?i=linkedin" />
