@@ -26,7 +26,7 @@ Full Stack Developer • Mobile App Specialist • Cloud & Backend Engineer • 
 
 ### 📱 Frontend & Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,react-native,expo,html,css,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" />
 </p>
 
 ### ⚙️ Backend Development
@@ -73,7 +73,8 @@ Full Stack Developer • Mobile App Specialist • Cloud & Backend Engineer • 
 ## 🛡️ Cyber Security & Ethical Hacking
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,kali linux" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmEuoZ6PQn1A-XfaEn3MOBOxFzyo8V4f9r6w&s" />
 </p>
 
 - 🛡️ Ethical Hacking Fundamentals  
@@ -109,12 +110,7 @@ Full Stack Developer • Mobile App Specialist • Cloud & Backend Engineer • 
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=your-username&theme=tokyonight" height="165"/>
-</p>
 
 ---
 
