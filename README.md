@@ -84,12 +84,6 @@ Full Stack Developer • React Native Specialist • Cloud & Backend Engineer �
 - 🔍 Network & Web Security  
 - ⚠️ Penetration Testing (Beginner–Intermediate)  
 
----
-
-## 🎨 Design & Creative Tools
-<p>
-  <img src="[https://skillicons.dev/icons?i=canva](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSle-sbcAzTBSZEAgcM0QQOaAV5abB0YNvtAQ&s)" />
-</p>
 
 ---
 
