@@ -32,6 +32,8 @@ Full Stack Developer • React Native Specialist • Cloud & Backend Engineer �
 ### 📱 Frontend & Mobile Development
 <p>
   <img src="https://skillicons.dev/icons?i=react,reactnative,expo,html,css,js,tailwind" />
+  <img src="https://i0.wp.com/everyday.codes/wp-content/uploads/2019/06/react-native-1024x631-1024x631.png?resize=680%2C419&ssl=1" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpG-MCrovktEXoYAOHYKWw-g_Czibnww11A&s" />
 </p>
 
 ### ⚙️ Backend Development
@@ -85,7 +87,7 @@ Full Stack Developer • React Native Specialist • Cloud & Backend Engineer �
 
 ## 🎨 Design & Creative Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=canva" />
+  <img src="[https://skillicons.dev/icons?i=canva](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSle-sbcAzTBSZEAgcM0QQOaAV5abB0YNvtAQ&s)" />
 </p>
 
 ---
