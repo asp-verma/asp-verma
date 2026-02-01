@@ -4,7 +4,7 @@ Full Stack Developer • Mobile App Specialist • Cloud & Backend Engineer • 
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=asp-verma&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -26,7 +26,7 @@ Full Stack Developer • Mobile App Specialist • Cloud & Backend Engineer • 
 
 ### 📱 Frontend & Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,html,css,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,react-native,expo,html,css,js,tailwind" />
 </p>
 
 ### ⚙️ Backend Development
@@ -73,7 +73,7 @@ Full Stack Developer • Mobile App Specialist • Cloud & Backend Engineer • 
 ## 🛡️ Cyber Security & Ethical Hacking
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=linux,kali linux" />
 </p>
 
 - 🛡️ Ethical Hacking Fundamentals  
@@ -85,7 +85,7 @@ Full Stack Developer • Mobile App Specialist • Cloud & Backend Engineer • 
 ## 🎨 Design & Creative Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=canva" />
+  <img src="[https://skillicons.dev/icons?i=canva](https://static.canva.com/web/images/8439b51bb7a19f6e65ce1064bc37c197.svg)" />
 </p>
 
 ---
@@ -124,7 +124,7 @@ Full Stack Developer • Mobile App Specialist • Cloud & Backend Engineer • 
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:amit.whitehatcoder@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
