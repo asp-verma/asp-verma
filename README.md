@@ -1,32 +1,37 @@
 <h1 align="center">Hi 👋, I'm Amit Verma</h1>
+
 <h3 align="center">
-Full Stack Developer • Mobile App Specialist • Cloud & Backend Engineer • Tech Educator
+Full Stack Developer • React Native Specialist • Cloud & Backend Engineer • Tech Educator
 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asp-verma&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+<p align="center">
+  <i>Building scalable apps • Teaching future developers • Exploring AI & Security</i>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-- 🚀 Full Stack Developer (Web + Mobile)
-- 📱 React Native (Expo & CLI) Specialist
-- ⚙️ Backend with Node.js, Express, MongoDB
+- 🚀 Full Stack Developer (Web & Mobile)
+- 📱 **React Native (CLI & Expo)** Specialist
+- ⚙️ Backend: **Node.js, Express, MongoDB**
 - ☁️ Cloud & DevOps Enthusiast
 - 🧠 AI / ML / Data Science Learner
 - 🏫 Founder & Mentor at **TechVidya**
-- 🛡️ Ethical Hacking & Security Basics
-- 🎯 Building real-world, scalable applications
+- 🛡️ Ethical Hacking & Cyber Security Basics
+- 🎯 Focused on real-world, production-ready applications
 
 ---
 
-## 🧠 Core Technologies
+## 🧠 Tech Stack
 
 ### 📱 Frontend & Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,html,css,js,tailwind" />
 </p>
 
 ### ⚙️ Backend Development
@@ -42,15 +47,13 @@ Full Stack Developer • Mobile App Specialist • Cloud & Backend Engineer • 
 ---
 
 ## ☁️ Cloud, DevOps & Infrastructure
-
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure" />
 </p>
 
 ---
 
-## 🧠 Programming Languages
-
+## 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,python,c,cpp,php" />
 </p>
@@ -58,7 +61,6 @@ Full Stack Developer • Mobile App Specialist • Cloud & Backend Engineer • 
 ---
 
 ## 🤖 AI, ML, Data Science & Analytics
-
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
@@ -71,28 +73,24 @@ Full Stack Developer • Mobile App Specialist • Cloud & Backend Engineer • 
 ---
 
 ## 🛡️ Cyber Security & Ethical Hacking
-
 <p>
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmEuoZ6PQn1A-XfaEn3MOBOxFzyo8V4f9r6w&s" />
+  <img src="https://skillicons.dev/icons?i=linux,kali" />
 </p>
 
 - 🛡️ Ethical Hacking Fundamentals  
-- 🔍 Network & Web Security Basics  
-- ⚠️ Penetration Testing (Beginner)  
+- 🔍 Network & Web Security  
+- ⚠️ Penetration Testing (Beginner–Intermediate)  
 
 ---
 
 ## 🎨 Design & Creative Tools
-
 <p>
-  <img src="[https://skillicons.dev/icons?i=canva](https://static.canva.com/web/images/8439b51bb7a19f6e65ce1064bc37c197.svg)" />
+  <img src="https://skillicons.dev/icons?i=canva" />
 </p>
 
 ---
 
 ## 🧰 Tools & Development Environment
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
 </p>
@@ -110,12 +108,7 @@ Full Stack Developer • Mobile App Specialist • Cloud & Backend Engineer • 
 
 ---
 
-
-
----
-
 ## 📫 Connect With Me
-
 <p>
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://skillicons.dev/icons?i=linkedin" />
