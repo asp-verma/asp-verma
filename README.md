@@ -15,7 +15,7 @@
 - 📱 Expert in **React Native (Expo & CLI)**
 - 🌐 Backend with **Node.js, Express, MongoDB**
 - 🔥 Firebase (Auth, Firestore, Storage)
-- 🧠 Founder & Mentor at **ApexCode Academy**
+- 🧠 Founder & Mentor at **TechVidya**
 - 🎓 Passionate about teaching & building real-world projects
 - 🌱 Currently building **scalable apps & startups**
 
@@ -25,7 +25,7 @@
 
 ### 📱 Frontend & Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,html,css,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,react-native,expo,html,css,js,tailwind" />
 </p>
 
 ### ⚙️ Backend
@@ -51,12 +51,6 @@
 
 ---
 
-## 🧠 Currently Learning
-
-- 🔥 Advanced Backend Architecture
-- 📊 Data Science & Analytics
-- ⚡ Performance Optimization
-- ☁️ Cloud & DevOps basics
 
 ---
 
