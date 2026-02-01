@@ -1,56 +1,111 @@
 <h1 align="center">Hi 👋, I'm Amit Verma</h1>
-<h3 align="center">Full Stack Developer | React Native Specialist | Tech Educator</h3>
+<h3 align="center">
+Full Stack Developer • Mobile App Specialist • Cloud & Backend Engineer • Tech Educator
+</h3>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🚀 Full Stack Developer with strong focus on **Mobile & Web Apps**
-- 📱 Expert in **React Native (Expo & CLI)**
-- 🌐 Backend with **Node.js, Express, MongoDB**
-- 🔥 Firebase (Auth, Firestore, Storage)
-- 🧠 Founder & Mentor at **TechVidya**
-- 🎓 Passionate about teaching & building real-world projects
-- 🌱 Currently building **scalable apps & startups**
+- 🚀 Full Stack Developer (Web + Mobile)
+- 📱 React Native (Expo & CLI) Specialist
+- ⚙️ Backend with Node.js, Express, MongoDB
+- ☁️ Cloud & DevOps Enthusiast
+- 🧠 AI / ML / Data Science Learner
+- 🏫 Founder & Mentor at **TechVidya**
+- 🛡️ Ethical Hacking & Security Basics
+- 🎯 Building real-world, scalable applications
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Core Technologies
 
-### 📱 Frontend & Mobile
+### 📱 Frontend & Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,react-native,expo,html,css,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,html,css,js,tailwind" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,php,laravel" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🌐 CMS & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
+
+---
+
+## ☁️ Cloud, DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure" />
+</p>
+
+---
+
+## 🧠 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,c,cpp,php" />
+</p>
+
+---
+
+## 🤖 AI, ML, Data Science & Analytics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- 🤖 Artificial Intelligence (AI)
+- 📊 Machine Learning (ML)
+- 📈 Data Science (DS)
+- 📉 Data Analytics (DA)
+
+---
+
+## 🛡️ Cyber Security & Ethical Hacking
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+- 🛡️ Ethical Hacking Fundamentals  
+- 🔍 Network & Web Security Basics  
+- ⚠️ Penetration Testing (Beginner)  
+
+---
+
+## 🎨 Design & Creative Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=canva" />
+</p>
+
+---
+
+## 🧰 Tools & Development Environment
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
 </p>
 
 ---
 
-## 🚀 Projects Highlights
+## 🚀 Project Highlights
 
-- 📲 **WhatsApp-like Chat App** (React Native + Node + Socket.io)
-- 🎥 **Reels / Short Video App** (Firebase + MongoDB)
-- 🌱 **GreenSteps App** – Eco Walk Tracker & Rewards
-- ⚡ **EV Services App** (React Native + Node)
-- 🎮 **Games** – Dino Jump, Match-3 Puzzle
-- 🏫 **Study Material App** (Expo + Backend API)
-
----
-
+- 📲 **WhatsApp-like Chat App** – React Native + Node.js + Socket.io  
+- 🎥 **Reels / Short Video App** – Firebase + MongoDB  
+- 🌱 **GreenSteps App** – Eco Walk Tracker & Rewards  
+- ⚡ **EV Services App** – React Native + Node.js  
+- 🎮 **Games** – Dino Jump, Match-3 Puzzle  
+- 📚 **Study Material App** – Expo + Backend APIs  
 
 ---
 
@@ -66,7 +121,7 @@
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:your-email@gmail.com">
@@ -77,5 +132,5 @@
 ---
 
 <p align="center">
-  ⚡ <i>"Code. Build. Teach. Repeat."</i>
+  ⚡ <i>“Build. Secure. Scale. Teach.”</i>
 </p>
