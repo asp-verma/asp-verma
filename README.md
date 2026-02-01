@@ -32,7 +32,7 @@ Full Stack Developer • React Native Specialist • Cloud & Backend Engineer �
 
 ### 📱 Frontend & Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,html,css,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" />
 </p>
 
 ---
