@@ -18,13 +18,13 @@ Full Stack Developer • React Native Specialist • Cloud & Backend Engineer �
 
 - 🚀 Full Stack Developer (Web & Mobile)
 - 📱 **React Native (CLI & Expo)** Specialist
-- 🤖 Mobile Dev with **Flutter**
+- 🤖 Mobile App Developer with **Flutter**
 - ⚙️ Backend: **Node.js, Express, MongoDB**
 - 🐍 Backend with **Python & Django**
 - ☁️ Cloud & DevOps Enthusiast
-- 🧠 AI / ML / Data Science Learner
+- 🧠 AI / ML / Data Science Engineer
 - 🏫 Founder & Mentor at **TechVidya**
-- 🛡️ Ethical Hacking & Cyber Security Basics
+- 🛡️ Ethical Hacking & Cyber Security 
 - 🎯 Focused on real-world, production-ready applications
 
 ---
@@ -33,7 +33,7 @@ Full Stack Developer • React Native Specialist • Cloud & Backend Engineer �
 
 ### 📱 Frontend & Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,html,css,js,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,flutter,html,css,js,tailwind" />
 </p>
 
 ---
@@ -90,9 +90,21 @@ Full Stack Developer • React Native Specialist • Cloud & Backend Engineer �
 
 ---
 
+### 🎨 UI/UX, Photo & Video Editing Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,canva,ps,pr" />
+</p>
+
+- 🎨 UI/UX Design (Figma)  
+- 🖌️ Photo Editing (Photoshop)  
+- 🎬 Video Editing (Adobe Premiere Pro)  
+- 📐 Creative Design (Canva)  
+
+---
+
 ### 🧰 Tools & Development Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio,atom,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,androidstudio,atom,linux" />
 </p>
 
 ---
